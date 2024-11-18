@@ -221,3 +221,4 @@ const styles = StyleSheet.create({
     color: '#FF5C5C',
   },
 });
+// i have added tasks 
